@@ -36,5 +36,8 @@ Analyze customers' purchasing behavior regarding bikes and identify potential ta
 
 5️⃣ Colour Combination & Chart Selection
 
+### Final Conclusion:
+Target high average income adults who live within 5 miles of commute distance and have less than 2 cars because these are the most potential customers.
+
 ### Dashboard Image
 ![Screenshot (31221)](https://github.com/Aayush2k23/Bike_buyers/assets/131526402/f609248d-81bd-44b7-aa3c-0ac4cad74e14)
